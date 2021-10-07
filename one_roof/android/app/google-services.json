@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426483658031",
+    "project_id": "one-roof-6018f",
+    "storage_bucket": "one-roof-6018f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426483658031:android:3dc79a78a411cfaefdc5da",
+        "android_client_info": {
+          "package_name": "com.example.one_roof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426483658031-f9vq7t0rsv3dgeek4op17rscg9n8omsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.one_roof",
+            "certificate_hash": "2df027ff776345cfc738c72c6ed3bf4e71cef9ef"
+          }
+        },
+        {
+          "client_id": "426483658031-0fe4a1o8n007l20ait7f957tc0qj1jld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtx0wtR-IAd4vY8UsB5ef6w1dAJCq4ax8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426483658031-0fe4a1o8n007l20ait7f957tc0qj1jld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
